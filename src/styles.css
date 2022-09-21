@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.target-div {
+  margin-left: 40px;
+  height: 300px;
+  width: 300px;
+  border: 1px solid red;
+}
